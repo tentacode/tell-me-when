@@ -1,0 +1,18 @@
+{
+    "name": "tentacode/tell-me-when",
+    "description": "CLI to launch commands and get the result when they're done.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TellMeWhen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tentacode",
+            "email": "gabriel+github@tentacode.dev"
+        }
+    ],
+    "require": {}
+}
