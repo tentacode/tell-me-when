@@ -1,0 +1,6 @@
+#!/bin/bash
+# display all arguments
+shellCommand=$*;
+
+# execute shellCommand as a daemon process
+nohup $shellCommand > ./toto 2>&1 &

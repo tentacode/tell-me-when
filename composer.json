@@ -14,5 +14,9 @@
             "email": "gabriel+github@tentacode.dev"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.2",
+        "symfony/console": "^6.3",
+        "symfony/process": "^6.3"
+    }
 }
